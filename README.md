@@ -1,4 +1,4 @@
-# Spectral_K-means
+# Spectral K-means Algorithm
 In this project I implemented a version of the normalized spectral clustering algorithm.
 The algorithm's purpose is to find k clusters that extract data with different amound of features into k vectors only. 
 
